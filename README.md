@@ -22,3 +22,7 @@ This project analyzed dating app usage among Gen-Z, focusing on:
 ## 📌 Next Steps
 - Apply machine learning models to predict user behavior.
 - Improve data collection for underrepresented demographics.
+
+
+**Author: Michael Onwuachi**
+
